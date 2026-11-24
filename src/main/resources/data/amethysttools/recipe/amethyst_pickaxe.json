@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ADA",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "D": "minecraft:diamond",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "amethysttools:amethyst_pickaxe",
+    "count": 1
+  }
+}

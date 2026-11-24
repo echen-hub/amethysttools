@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "amethysttools",
+  "version": "${version}",
+  "name": "Amethyst Tools",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "amethystpickaxe.Main"
+    ]
+  },
+  "depends": {
+    "minecraft": "~26.2",
+    "fabric-api": "*"
+  }
+}
